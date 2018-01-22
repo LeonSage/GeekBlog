@@ -1,0 +1,11 @@
+127.0.0.1 - - [29/Aug/2017:00:55:46 +1000] "GET / HTTP/1.1" 200 11452
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:00:56:17 +1000] "GET /elec5619/WEB-INF/classes/au/usyd/elec5619/web/HelloController.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:00:56:40 +1000] "GET /elec5619/hello.htm HTTP/1.1" 200 198
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:10:39:30 +1000] "GET /elec5619/WEB-INF/classes/au/usyd/elec5619/domain/Product.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:10:39:46 +1000] "GET /elec5619/hello.htm HTTP/1.1" 200 198
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:11:27:03 +1000] "GET /elec5619/WEB-INF/classes/au/usyd/elec5619/service/SimpleProductManager.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:11:27:29 +1000] "GET /elec5619/hello.htm HTTP/1.1" 200 198
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:14:03:45 +1000] "GET /elec5619/WEB-INF/classes/au/usyd/elec5619/service/SimpleProductManager.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:14:04:15 +1000] "GET /elec5619/hello.htm HTTP/1.1" 200 198
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:14:04:21 +1000] "GET /elec5619/WEB-INF/classes/au/usyd/elec5619/service/SimpleProductManager.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [29/Aug/2017:15:10:44 +1000] "GET /elec5619/WEB-INF/spring/appServlet/servlet-context.xml HTTP/1.1" 404 992
