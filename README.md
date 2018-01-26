@@ -14,10 +14,10 @@
  * Bootstrap
  
  ### 框架结构图
- [!img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/feature_overview.png)
+ ![img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/feature_overview.png)
  
  ### 数据库ER图
- [!img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/database_overview.png)
+ ![img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/database_overview.png)
  
  ### 实现功能
  * 用户注册：用户通过设置用户名和密码完成注册
@@ -29,16 +29,16 @@
 
  ### 界面截图
  * 登陆界面
- [!img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/login-page.png)
+ ![img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/login-page.png)
  * 注册界面
- [!img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/register-page.png)
+ ![img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/register-page.png)
  * 主页
- [!img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/home-page.png)
+ ![img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/home-page.png)
  * 文章发布
- [img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/addblog-page.png)
+ ![img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/addblog-page.png)
  * 文章搜索
- [img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/searchblog-page.png)
+ ![img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/searchblog-page.png)
  * 用户管理
- [img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/admin-page.png)
+ ![img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/admin-page.png)
  * 博客简介
- [!img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/introduction-page.png)
+ ![img](https://github.com/zhengxinyu0825/GeekBlog/blob/master/screenshot/introduction-page.png)
